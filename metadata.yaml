@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36478#The-Red-Year--A-Story-of-the-Indian-Mutiny
 gutenberg_issued: '2011-06-20'
 gutenberg_type: Text
 identifiers:
