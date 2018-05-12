@@ -1,0 +1,29 @@
+_repo: The-Red-Year--A-Story-of-the-Indian-Mutiny_36478
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36478-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2011-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36478'
+  lccn: 08000979
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction'
+- !lcc 'PR'
+title: 'The Red Year: A Story of the Indian Mutiny'
+url: http://www.gutenberg.org/ebooks/36478
